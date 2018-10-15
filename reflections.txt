@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  *I have learned the meaning of mockup, how to use tags such as <img>, <a>.
+
+  *The easy part was to use the same tags that I used in the classes, because I was used to it, I really knew what to do.
+
+  *The difficulty was about using tags that I haven't seen, like <hr> and <sup>, because my native language isn't English it was a bit hard to find out it once the tags has some sense with the words in English, like <sup> stands for "Superscript" and <hr> for "Horizontal Rule".
+
+  *I guess the first projects teaches you that you always need to look up for information on the internet, in the first classes they were always saying to look up at the MDN website for information, and since that in the project I have to use some tags that I haven't a clue about looking it up online helped a lot.
