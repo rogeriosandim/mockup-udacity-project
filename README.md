@@ -4,7 +4,7 @@
 
 This is the first project that I've done during the [Web Front-End Foundations Nanodegree Program at Udacity](https://www.udacity.com). Where I had to build a web page from a mockup.
 
-**Tecnologies Used:**
+**Technologies Used:**
 
 * HTML
 
